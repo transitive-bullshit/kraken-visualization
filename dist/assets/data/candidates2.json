@@ -3,7 +3,7 @@
     {
       "name": "Ben N.",
       "desc": "Software Engineer",
-      "image": "http://www.benlickly.com/images/lickly_headshot.jpg",
+      "image": "https://www.benlickly.com/images/lickly_headshot.jpg",
       "scores": {
 	"schools": [ 0.85, 0.8 ],
 	"big-data": [ 0.6, 0.8 ],
@@ -38,7 +38,7 @@
     {
       "name": "John P.",
       "desc": "Software Engineer",
-      "image": "http://benmartz.com/sites/default/files/ben_headshot_120x120.png",
+      "image": "https://benmartz.com/sites/default/files/ben_headshot_120x120.png",
       "scores": {
 	"schools": [ 1, 0.85 ],
 	"big-data": [ 0.3, 0.85 ],
@@ -73,7 +73,7 @@
     {
       "name": "Michael S.",
       "desc": "Frontend Developer",
-      "image": "http://mis.learnbig.com/images/Ben_headshot_20140224181051.jpg",
+      "image": "https://mis.learnbig.com/images/Ben_headshot_20140224181051.jpg",
       "scores": {
 	"schools": [ 0.8, 0.5 ],
 	"big-data": [ 0.0, 0.4 ],
@@ -120,7 +120,7 @@
     {
       "name": "Timothy J.",
       "desc": "Software Engineer",
-      "image": "http://www.ttia.org/resource/resmgr/2013_summit/smithee-headshot-2011.jpg",
+      "image": "https://www.ttia.org/resource/resmgr/2013_summit/smithee-headshot-2011.jpg",
       "scores": {
 	"schools": [ 0.1, 0.6 ],
 	"big-data": [ 0.0, 0.6 ],
@@ -168,7 +168,7 @@
     {
       "name": "Dan B.",
       "desc": "Software Developer",
-      "image": "http://www.americorpsalums.org/resource/resmgr/staff/ben_duda-_headshot-_85x97.jpg",
+      "image": "https://www.americorpsalums.org/resource/resmgr/staff/ben_duda-_headshot-_85x97.jpg",
       "scores": {
 	"schools": [ 0.1, 0.75 ],
 	"big-data": [ 0.3, 0.75 ],
@@ -207,7 +207,7 @@
     {
       "name": "Srinivas S.",
       "desc": "Software Engineer",
-      "image": "http://www.eyesurgeryusa.com/dr/8/headshot.jpg",
+      "image": "https://www.eyesurgeryusa.com/dr/8/headshot.jpg",
       "scores": {
 	"schools": [ 0.95, 0.85 ],
 	"big-data": [ 0.4, 0.9 ],
@@ -237,7 +237,7 @@
     {
       "name": "Ken Y.",
       "desc": "Software Engineer",
-      "image": "http://rpicompsci.files.wordpress.com/2012/08/headshot.jpg",
+      "image": "https://rpicompsci.files.wordpress.com/2012/08/headshot.jpg",
       "scores": {
 	"schools": [ 1.0, 0.88 ],
 	"big-data": [ 0.0, 0.75 ],
@@ -268,7 +268,7 @@
     {
       "name": "Andrei N.",
       "desc": "Software Engineer",
-      "image": "http://2.bp.blogspot.com/-khB04KzfVSI/UCDqMkWSulI/AAAAAAAAAAM/lMxOkDdLYBk/s1600/headshot.png",
+      "image": "https://2.bp.blogspot.com/-khB04KzfVSI/UCDqMkWSulI/AAAAAAAAAAM/lMxOkDdLYBk/s1600/headshot.png",
       "scores": {
 	"schools": [ 0.7, 0.7 ],
 	"big-data": [ 0.4, 0.75 ],
@@ -299,7 +299,7 @@
     {
       "name": "Cailin A.",
       "desc": "VP of Engineering",
-      "image": "http://m.c.lnkd.licdn.com/mpr/pub/image-rUElEmiZ5ZK1Ohra4m1UoU1oKgNOE32CfNLb5miZK3cuvfLYrUEbVn2ZKtZuvuc539_R/cailin-nelson.jpg",
+      "image": "https://m.c.lnkd.licdn.com/mpr/pub/image-rUElEmiZ5ZK1Ohra4m1UoU1oKgNOE32CfNLb5miZK3cuvfLYrUEbVn2ZKtZuvuc539_R/cailin-nelson.jpg",
       "scores": {
 	"schools": [ 1.0, 1.0 ],
 	"big-data": [ 0.4, 0.8 ],
@@ -343,7 +343,7 @@
     {
       "name": "Osman H.",
       "desc": "Software Engineer",
-      "image": "http://www.theroot.com/content/dam/theroot/articles/culture/2014/04/what_happened_when_a_16_year_old_choose_famu_over_harvard/headshot2014.jpeg.CROP.rtstoryvar-large.jpeg",
+      "image": "https://www.theroot.com/content/dam/theroot/articles/culture/2014/04/what_happened_when_a_16_year_old_choose_famu_over_harvard/headshot2014.jpeg.CROP.rtstoryvar-large.jpeg",
       "scores": {
 	"schools": [ 0.5, 0.7 ],
 	"big-data": [ 0.6, 0.8 ],
@@ -373,7 +373,7 @@
 
     {
       "name": "Samuel O.",
-      "desc": "http://csci.unca.edu/sites/csci.unca.edu/files/profile-images/ken.jpg",
+      "desc": "https://csci.unca.edu/sites/csci.unca.edu/files/profile-images/ken.jpg",
       "image": "https://media.licdn.com/media/p/3/000/0c5/076/0285397.jpg",
       "scores": {
 	"schools": [ 0.1, 0.75 ],
@@ -409,7 +409,7 @@
 
     {
       "name": "Jay G.",
-      "desc": "http://homes.cs.washington.edu/~zoran/headshot-hires-smooth.jpg",
+      "desc": "https://homes.cs.washington.edu/~zoran/headshot-hires-smooth.jpg",
       "image": "https://media.licdn.com/media/p/3/000/0c5/076/0285397.jpg",
       "scores": {
 	"schools": [ 0.2, 0.65 ],
@@ -450,7 +450,7 @@
     {
       "name": "Michael M.",
       "desc": "Software Engineer",
-      "image": "http://blogs.scholastic.com/.a/6a00e54faaf86b883301538dfb1f30970b-120wi",
+      "image": "https://blogs.scholastic.com/.a/6a00e54faaf86b883301538dfb1f30970b-120wi",
       "scores": {
 	"schools": [ 0.5, 0.75 ],
 	"big-data": [ 0.5, 0.85 ],
@@ -521,7 +521,7 @@
     {
       "name": "Justin W.",
       "desc": "Software Engineer",
-      "image": "http://blogs.plos.org/thestudentblog/files/2013/08/Headshot-e1394063408665.png",
+      "image": "https://blogs.plos.org/thestudentblog/files/2013/08/Headshot-e1394063408665.png",
       "scores": {
 	"schools": [ 0.9, 0.9 ],
 	"big-data": [ 0.8, 0.8 ],
@@ -554,7 +554,7 @@
     {
       "name": "Geoff L.",
       "desc": "CTO and Co-Founder",
-      "image": "http://static.businessinsider.com/image/500ef1d6eab8ea612600000a/image.jpg",
+      "image": "https://static.businessinsider.com/image/500ef1d6eab8ea612600000a/image.jpg",
       "scores": {
 	"schools": [ 0.85, 0.8 ],
 	"big-data": [ 0.45, 0.85 ],
@@ -592,7 +592,7 @@
     {
       "name": "Paul E.",
       "desc": "CEO and Co-Founder",
-      "image": "http://media-cache-ec0.pinimg.com/avatars/pauleastlund_1397940547_140.jpg",
+      "image": "https://media-cache-ec0.pinimg.com/avatars/pauleastlund_1397940547_140.jpg",
       "scores": {
 	"schools": [ 0.9, 0.85 ],
 	"big-data": [ 0.6, 0.9 ],
@@ -715,7 +715,7 @@
     {
       "name": "Gianna N.",
       "desc": "",
-      "image": "http://cdn2.hubspot.net/hub/100473/file-744689427-jpg/Imagine_Team_Headshots/Gianna_Nucci_Headshot.jpg?t=1410791047361",
+      "image": "https://cdn2.hubspot.net/hub/100473/file-744689427-jpg/Imagine_Team_Headshots/Gianna_Nucci_Headshot.jpg?t=1410791047361",
       "scores": {
 	"schools": [ 0.5, 0.6 ],
 	"big-data": [ 0.0, 0.5 ],
@@ -753,7 +753,7 @@
     {
       "name": "Whitney Z.",
       "desc": "Software Engineer",
-      "image": "http://m.c.lnkd.licdn.com/mpr/pub/image-f4JRAE8W25C_Vi3ZpBu1N0UQhcMMxLX0_PuomEnWhYre1Q7Of4JomrjWhFYjiSMv17G3/whitney-zoller-hyde.jpg",
+      "image": "https://m.c.lnkd.licdn.com/mpr/pub/image-f4JRAE8W25C_Vi3ZpBu1N0UQhcMMxLX0_PuomEnWhYre1Q7Of4JomrjWhFYjiSMv17G3/whitney-zoller-hyde.jpg",
       "scores": {
 	"schools": [ 0.7, 0.8 ],
 	"big-data": [ 0.0, 0.55 ],
@@ -783,7 +783,7 @@
     {
       "name": "Urjit S.",
       "desc": "Software Engineer",
-      "image": "http://afterschool.evergreenunited.org/_/rsrc/1312033409912/yslhome/college-youth-advisers/Annkit%20Patel%20Headshot.jpg?height=200&width=122",
+      "image": "https://afterschool.evergreenunited.org/_/rsrc/1312033409912/yslhome/college-youth-advisers/Annkit%20Patel%20Headshot.jpg?height=200&width=122",
       "scores": {
 	"schools": [ 0.2, 0.5 ],
 	"big-data": [ 0.0, 0.5 ],
@@ -834,7 +834,7 @@
     {
       "name": "Roman M.",
       "desc": "Software Engineer",
-      "image": "http://egr.uri.edu/wp-uploads/biolab/Roman-Headshot-262x300.jpg",
+      "image": "https://egr.uri.edu/wp-uploads/biolab/Roman-Headshot-262x300.jpg",
       "scores": {
 	"schools": [ 0.0, 0.5 ],
 	"big-data": [ 0.0, 0.5 ],
@@ -877,7 +877,7 @@
     {
       "name": "Evan L.",
       "desc": "Software Engineer",
-      "image": "http://romandanylo.com/photos/romanHeadshot1.jpg",
+      "image": "https://romandanylo.com/photos/romanHeadshot1.jpg",
       "scores": {
 	"schools": [ 0.6, 0.8 ],
 	"big-data": [ 0.0, 0.6 ],
@@ -911,7 +911,7 @@
     {
       "name": "Thomas K.",
       "desc": "Software Engineer.",
-      "image": "http://www.nmu.edu/sportsusoec/sites/DrupalSportsUSOEC/files/UserFiles/Pictures/Pre-Drupal/Sports/Greco-RomanWrestling/Images/Greer.jpg",
+      "image": "https://www.nmu.edu/sportsusoec/sites/DrupalSportsUSOEC/files/UserFiles/Pictures/Pre-Drupal/Sports/Greco-RomanWrestling/Images/Greer.jpg",
       "scores": {
 	"schools": [ 0.5, 0.75 ],
 	"big-data": [ 0.15, 0.65 ],
@@ -945,7 +945,7 @@
     {
       "name": "Charlie W.",
       "desc": "Software Engineer",
-      "image": "http://cdn87.psbin.com/img/mw=150/mh=200/cr=n/d=ueylq/4kyui5cxzw6uhcsb.jpg",
+      "image": "https://cdn87.psbin.com/img/mw=150/mh=200/cr=n/d=ueylq/4kyui5cxzw6uhcsb.jpg",
       "scores": {
 	"schools": [ 0.4, 0.6 ],
 	"big-data": [ 0.0, 0.5 ],
@@ -979,7 +979,7 @@
     {
       "name": "Feifei J.",
       "desc": "Software Engineer.",
-      "image": "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_80_80/p/5/005/00f/086/264f092.jpg",
+      "image": "https://m.c.lnkd.licdn.com/mpr/mpr/shrink_80_80/p/5/005/00f/086/264f092.jpg",
       "scores": {
 	"schools": [ 0.1, 0.4 ],
 	"big-data": [ 0.3, 0.4 ],
@@ -1023,7 +1023,7 @@
     {
       "name": "Gaurav S.",
       "desc": "Software Engineer",
-      "image": "http://www.ece.mcmaster.ca/images/arij_khan.jpg",
+      "image": "https://www.ece.mcmaster.ca/images/arij_khan.jpg",
       "scores": {
 	"schools": [ 0.0, 0.4 ],
 	"big-data": [ 0.0, 0.4 ],
@@ -1066,7 +1066,7 @@
     {
       "name": "Erik B.",
       "desc": "Technical Lead",
-      "image": "http://erikbern.com/wp-content/uploads/2012/12/linkedin-profile-pic.jpg",
+      "image": "https://erikbern.com/wp-content/uploads/2012/12/linkedin-profile-pic.jpg",
       "scores": {
 	"schools": [ 0.25, 0.75 ],
 	"big-data": [ 0.0, 0.75 ],
@@ -1105,7 +1105,7 @@
     {
       "name": "Bruce D.",
       "desc": "Engineering Director",
-      "image": "http://www.interwest.com/sites/default/files/partners/Bruce%20headshot%20gray%20background.png",
+      "image": "https://www.interwest.com/sites/default/files/partners/Bruce%20headshot%20gray%20background.png",
       "scores": {
 	"schools": [ 0.95, 0.95 ],
 	"big-data": [ 0.0, 0.8 ],
@@ -1144,7 +1144,7 @@
     {
       "name": "Kevin H.",
       "desc": "Software Engineer",
-      "image": "http://pics.pof.com/dating/274/22/4uvh1v3stagqh4yjyegw11wdp450524768.jpg",
+      "image": "https://pics.pof.com/dating/274/22/4uvh1v3stagqh4yjyegw11wdp450524768.jpg",
       "scores": {
 	"schools": [ 0.0, 0.6 ],
 	"big-data": [ 0.0, 0.5 ],
@@ -1183,7 +1183,7 @@
     {
       "name": "Xianjin Z.",
       "desc": "Software Developer",
-      "image": "http://www.amcham-shanghai.org/NR/rdonlyres/5ACE010B-28E5-4DC5-87BA-DFAA96B714E9/18092/WillZhao_headshot.jpg",
+      "image": "https://www.amcham-shanghai.org/NR/rdonlyres/5ACE010B-28E5-4DC5-87BA-DFAA96B714E9/18092/WillZhao_headshot.jpg",
       "scores": {
 	"schools": [ 0.2, 0.5 ],
 	"big-data": [ 0.0, 0.45 ],
@@ -1225,7 +1225,7 @@
     {
       "name": "Mark R.",
       "desc": "Engineering Director",
-      "image": "http://www.google.com/about/careers/files/story_meet-reto-strobl-an-engineering-manager-at-google-zurich_image_726x726.jpg",
+      "image": "https://www.google.com/about/careers/files/story_meet-reto-strobl-an-engineering-manager-at-google-zurich_image_726x726.jpg",
       "scores": {
 	"schools": [ 0.0, 0.7 ],
 	"big-data": [ 0.0, 0.65 ],
@@ -1317,7 +1317,7 @@
     {
       "name": "Jeff F.",
       "desc": "Lead iOS Engineer",
-      "image": "http://med.stanford.edu/content/dam/sm-news/images/2013/08/volleyball-1-081913.jpg",
+      "image": "https://med.stanford.edu/content/dam/sm-news/images/2013/08/volleyball-1-081913.jpg",
       "scores": {
 	"schools": [ 0.2, 0.65 ],
 	"big-data": [ 0.0, 0.3 ],
@@ -1351,7 +1351,7 @@
     {
       "name": "Matthew B.",
       "desc": "iOS Engineer",
-      "image": "http://www.chrisgallai.com/wp-content/uploads/2012/10/DSC_28103.jpg",
+      "image": "https://www.chrisgallai.com/wp-content/uploads/2012/10/DSC_28103.jpg",
       "scores": {
 	"schools": [ 0.0, 0.45 ],
 	"big-data": [ 0.0, 0.2 ],
@@ -1385,7 +1385,7 @@
     {
       "name": "Andy L.",
       "desc": "iOS Developer",
-      "image": "http://www.inforum.com/sites/default/files/styles/full_1000/public/field/image/091914.F.FF_.STYLEPROFILE2.jpg?itok=pegxwxbN",
+      "image": "https://www.inforum.com/sites/default/files/styles/full_1000/public/field/image/091914.F.FF_.STYLEPROFILE2.jpg?itok=pegxwxbN",
       "scores": {
 	"schools": [ 0.0, 0.6 ],
 	"big-data": [ 0.0, 0.5 ],
@@ -1599,7 +1599,7 @@
     {
       "name": "Travis T.",
       "desc": "Software Engineer",
-      "image": "http://www.canoeicf.com/icf/WorldClassCanoeing/Athlete-of-the-Month/Previous-AoftM/Anders-Gustafsson/main/01/imageBinary/Beach%20guy.jpg",
+      "image": "https://www.canoeicf.com/icf/WorldClassCanoeing/Athlete-of-the-Month/Previous-AoftM/Anders-Gustafsson/main/01/imageBinary/Beach%20guy.jpg",
       "scores": {
 	"schools": [ 0.3, 0.7 ],
 	"big-data": [ 0.5, 0.7 ],
@@ -1641,7 +1641,7 @@
 
     {
       "name": "Ramesh D.",
-      "desc": "http://i.imgur.com/FAyb7ev.jpg",
+      "desc": "https://i.imgur.com/FAyb7ev.jpg",
       "image": "https://media.licdn.com/mpr/mpr/wc_200_200/p/5/005/036/3ca/0608a7a.jpg",
       "scores": {
 	"schools": [ 1.0, 0.85 ],
@@ -1717,7 +1717,7 @@
     {
       "name": "Michael Y.",
       "desc": "Senior Android Developer",
-      "image": "http://i1.wp.com/www.dailycal.org/assets/uploads/2014/04/1471735_10103358587490678_1290299780_n.jpg",
+      "image": "https://i1.wp.com/www.dailycal.org/assets/uploads/2014/04/1471735_10103358587490678_1290299780_n.jpg",
       "scores": {
 	"schools": [ 1.0, 0.85 ],
 	"big-data": [ 0.0, 0.4 ],
@@ -1790,7 +1790,7 @@
     {
       "name": "Matthew L.",
       "desc": "Software Engineer",
-      "image": "http://1.bp.blogspot.com/_xg_qLh0wbLY/TKIlHGVgQOI/AAAAAAAAATY/JUcqHT9lrVs/s1600/Otto.JPG",
+      "image": "https://1.bp.blogspot.com/_xg_qLh0wbLY/TKIlHGVgQOI/AAAAAAAAATY/JUcqHT9lrVs/s1600/Otto.JPG",
       "scores": {
 	"schools": [ 1.0, 0.75 ],
 	"big-data": [ 0.0, 0.45 ],
@@ -1853,7 +1853,7 @@
     {
       "name": "Liam G.",
       "desc": "Software Engineer",
-      "image": "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/4/000/14f/377/177d387.jpg",
+      "image": "https://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/4/000/14f/377/177d387.jpg",
       "scores": {
 	"schools": [ 0.0, 0.4 ],
 	"big-data": [ 0.0, 0.3 ],
@@ -1887,7 +1887,7 @@
     {
       "name": "Michiaki Y.",
       "desc": "Software Engineer",
-      "image": "http://m.c.lnkd.licdn.com/media/p/2/000/0c5/37d/10401d0.jpg",
+      "image": "https://m.c.lnkd.licdn.com/media/p/2/000/0c5/37d/10401d0.jpg",
       "scores": {
 	"schools": [ 0.4, 0.6 ],
 	"big-data": [ 0.0, 0.3 ],
@@ -1921,7 +1921,7 @@
     {
       "name": "Tom C..",
       "desc": "Software Architect",
-      "image": "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/4/005/083/093/20b86ab.jpg",
+      "image": "https://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/4/005/083/093/20b86ab.jpg",
       "scores": {
 	"schools": [ 0.2, 0.5 ],
 	"big-data": [ 0.0, 0.3 ],
@@ -1956,7 +1956,7 @@
     {
       "name": "John G.",
       "desc": "iOS Engineer",
-      "image": "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_40_40/p/1/000/0ef/150/0c4c01c.jpg",
+      "image": "https://m.c.lnkd.licdn.com/mpr/mpr/shrink_40_40/p/1/000/0ef/150/0c4c01c.jpg",
       "scores": {
 	"schools": [ 0.7, 0.7 ],
 	"big-data": [ 0.3, 0.4 ],
@@ -2101,7 +2101,7 @@
     {
       "name": "Greg I.",
       "desc": "Senior Software Engineer",
-      "image": "http://www.govloop.com/wp-content/uploads/avatars/614/76f94728e887f2ff755ee608a0afc8e6-bpfull.jpeg",
+      "image": "https://www.govloop.com/wp-content/uploads/avatars/614/76f94728e887f2ff755ee608a0afc8e6-bpfull.jpeg",
       "scores": {
 	"schools": [ 0.0, 0.3 ],
 	"big-data": [ 0.0, 0.4 ],
@@ -2219,7 +2219,7 @@
     {
       "name": "Kenny K.",
       "desc": "CTO at Broadstreet Ads",
-      "image": "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/2/000/0de/0d5/2a3b954.jpg",
+      "image": "https://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/2/000/0de/0d5/2a3b954.jpg",
       "scores": {
 	"schools": [ 0.0, 0.3 ],
 	"big-data": [ 0.0, 0.3 ],
@@ -2292,7 +2292,7 @@
     {
       "name": "Kyle W.",
       "desc": "Software Engineer",
-      "image": "http://www.erlang-factory.com/static/upload/media/1392322103976359kyle.png",
+      "image": "https://www.erlang-factory.com/static/upload/media/1392322103976359kyle.png",
       "scores": {
 	"schools": [ 0.0, 0.4 ],
 	"big-data": [ 0.0, 0.4 ],
@@ -2352,7 +2352,7 @@
     {
       "name": "Dennis L.",
       "desc": "Software Engineer",
-      "image": "http://www.fenixintl.com/wp-content/uploads/2014/04/DennisOwino.jpg",
+      "image": "https://www.fenixintl.com/wp-content/uploads/2014/04/DennisOwino.jpg",
       "scores": {
 	"schools": [ 0.98, 0.88 ],
 	"big-data": [ 0.7, 0.85 ],
@@ -2461,7 +2461,7 @@
     {
       "name": "Pavel T.",
       "desc": "Lead Software Consultant",
-      "image": "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/2/005/01a/036/3808883.jpg",
+      "image": "https://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/2/005/01a/036/3808883.jpg",
       "scores": {
 	"schools": [ 0.2, 0.3 ],
 	"big-data": [ 0.0, 0.2 ],
@@ -2499,7 +2499,7 @@
     {
       "name": "Mohan M.",
       "desc": "Solutions Architect",
-      "image": "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/1/000/052/190/0a1cd48.jpg",
+      "image": "https://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/1/000/052/190/0a1cd48.jpg",
       "scores": {
 	"schools": [ 0.0, 0.3 ],
 	"big-data": [ 0.0, 0.2 ],
@@ -2581,7 +2581,7 @@
     {
       "name": "Paolo P.",
       "desc": "VP of Development at Broadridge Financial Services",
-      "image": "http://www.simplicissimus.it/wp-content/uploads/2013/09/paolo-300x300.jpg",
+      "image": "https://www.simplicissimus.it/wp-content/uploads/2013/09/paolo-300x300.jpg",
       "scores": {
 	"schools": [ 0.0, 0.3 ],
 	"big-data": [ 0.0, 0.2 ],
@@ -2620,7 +2620,7 @@
 
     {
       "name": "Hyungh S.",
-      "desc": "http://www.linkedin.com/in/michaelkhuynh",
+      "desc": "https://www.linkedin.com/in/michaelkhuynh",
       "image": "https://media.licdn.com/mpr/mpr/wc_200_200/p/5/005/036/3ca/0608a7a.jpg",
       "scores": {
 	"schools": [ 0.2, 0.4 ],
@@ -2780,7 +2780,7 @@
     {
       "name": "Samira V.",
       "desc": "Programmer Analyst",
-      "image": "http://m.c.lnkd.licdn.com/mpr/pub/image-liQ5y5PyXTtsnrxkG9C_0JORpEBUbUjPczF0reBypRfmbkEPliQ0rVsyprAhbN39LsI9/sheela-s.jpg",
+      "image": "https://m.c.lnkd.licdn.com/mpr/pub/image-liQ5y5PyXTtsnrxkG9C_0JORpEBUbUjPczF0reBypRfmbkEPliQ0rVsyprAhbN39LsI9/sheela-s.jpg",
       "scores": {
 	"schools": [ 0.2, 0.3 ],
 	"big-data": [ 0.0, 0.2 ],
@@ -2870,7 +2870,7 @@
     {
       "name": "Hari N.",
       "desc": "Sr. Vice President of Technology",
-      "image": "http://rsim.cs.illinois.edu/~shari2/images/siva_small.jpg",
+      "image": "https://rsim.cs.illinois.edu/~shari2/images/siva_small.jpg",
       "scores": {
 	"schools": [ 0.1, 0.3 ],
 	"big-data": [ 0.0, 0.3 ],
