@@ -1,0 +1,42 @@
+<!doctype html>
+<html xmlns:ng="http://angularjs.org" id="ng-app" lang="en" ng-app="kraken">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>Kraken</title>
+
+    <meta name="author"    content="Kraken">
+    <meta name="copyright" content="Kraken 2014">
+    <meta name="robots"    content="index,follow">
+
+    <meta name="viewport"  content="user-scalable=no, width=device-width, minimum-scale=1.0, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable"       content="yes">
+    <meta name="application-name"             content="Kraken">
+
+    <meta property="og:image"     content="/assets/img/logo.png"/>
+    <meta property="og:title"     content="Kraken"/>
+    <meta property="og:site_name" content="Kraken"/>
+    <meta property="og:type"      content="website"/>
+
+    <meta property="image"        content="/assets/img/logo.png"/>
+    <meta itemprop="name"         content="Kraken"/>
+
+    <link rel="shortcut icon" href="http://fathom-web.s3-website-us-west-2.amazonaws.com/assets/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="http://fathom-web.s3-website-us-west-2.amazonaws.com/assets/img/favicon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" href="http://fathom-web.s3-website-us-west-2.amazonaws.com/assets/css/app.min.css">
+  </head>
+
+  <body ng-controller="RootCtrl">
+    <div ng-include="'assets/html/flash.html'"></div>
+
+    <!-- angular view content injected here -->
+    <div id='content' ui-view></div>
+
+    <div id="scripts">
+      <script src="http://fathom-web.s3-website-us-west-2.amazonaws.com/assets/js/app.min.js"></script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,370 @@
+{
+  "organizations": [
+    {
+      "name": "Google",
+      "slug": "google",
+
+      "desc": "Google is a search and advertising service provider that aims to organize and monetize the world’s information.",
+      "logo": "http://a2.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1408578017/tjiikcwcsseopwkjav7e.png",
+      "scores": {
+        "large-tech-companies": [ 0.5, 0.8 ],
+        "startups": [ 0.0, 0.4 ],
+        "schools": [ 0.0, 0.37 ],
+        "mobile-companies": [ 0.0, 0.45 ]
+      }
+    },
+    {
+      "name": "Twitter",
+      "slug": "twitter",
+
+      "desc": "Twitter is a global real-time communications platform that enables users to post and read 'tweets,' messages limited to 140 characters.",
+      "logo": "http://a3.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1397180207/d242197edc3ff044620cf2d8ff39d6b3.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.3, 0.7 ],
+        "startups": [ 0.00, 0.26 ],
+        "schools": [ 0.0, 0.15 ],
+        "mobile-companies": [ 0.0, 0.49 ]
+      }
+    },
+    {
+      "name": "Facebook",
+      "slug": "facebook",
+
+      "desc": "Facebook is an online social networking service that allows users to connect with friends and family, and make new connections.",
+      "logo": "http://a1.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1408491700/ypqf483smhnqo0rh6mff.png",
+      "scores": {
+        "large-tech-companies": [ 0.7, 0.9 ],
+        "startups": [ 0.0, 0.08 ],
+        "schools": [ 0.0, 0.31 ],
+        "mobile-companies": [ 0.0, 0.24 ]
+      }
+    },
+    {
+      "name": "Snapchat",
+      "slug": "snapchat",
+
+      "desc": "Snapchat is a photo messaging app that allows users to take photos, record videos, add text and drawings, and send them to recipients.",
+      "logo": "http://a2.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1397191605/363f7277d53b74d271eee57b73053a13.png",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.17 ],
+        "startups": [ 0.0, 0.03 ],
+        "schools": [ 0.0, 0.15 ],
+        "mobile-companies": [ 0.8, 0.09 ]
+      }
+    },
+    {
+      "name": "Square",
+      "slug": "square",
+
+      "desc": "Square is a merchant services aggregator and mobile payment company that aims to simplify commerce through technology.",
+      "logo": "http://a1.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1405536447/mwcdj6o8ebzrzm7drlht.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.3, 0.5 ],
+        "startups": [ 0.0, 0.6 ],
+        "schools": [ 0.0, 0.32 ],
+        "mobile-companies": [ 0.13, 0.2 ]
+      }
+    },
+    {
+      "name": "Cloudera",
+      "slug": "cloudera",
+
+      "desc": "Cloudera is an enterprise software company that provides Apache Hadoop-based software and training to data-driven enterprises.",
+      "logo": "http://a2.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1397194498/2350be56d3529d47b19c69811a4b910f.png",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.26 ],
+        "startups": [ 0.43, 0.62 ],
+        "schools": [ 0.0, 0.15 ],
+        "mobile-companies": [ 0.0, 0.2 ]
+      }
+    },
+    {
+      "name": "Microsoft",
+      "slug": "microsoft",
+
+      "desc": "Microsoft, a software corporation, develops licensed and support products and services ranging from personal use to enterprise application.",
+      "logo": "http://a1.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1397182206/6835990abacfb4d14ecdbfc87641e469.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.6, 0.8 ],
+        "startups": [ 0.0, 0.28 ],
+        "schools": [ 0.0, 0.5 ],
+        "mobile-companies": [ 0.0, 0.07 ]
+      }
+    },
+    {
+      "name": "Apple",
+      "slug": "apple",
+
+      "desc": "Apple is a multinational corporation that designs, develops and sells consumer electronics, computer software and personal computers.",
+      "logo": "http://a4.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1397182827/fdec0946ce318ef6db3c7d72ad2c7bfc.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.85, 0.7 ],
+        "startups": [ 0.0, 0.33 ],
+        "schools": [ 0.0, 0.25 ],
+        "mobile-companies": [ 0.0, 0.38 ]
+      }
+    },
+    {
+      "name": "Digg",
+      "slug": "digg",
+
+      "desc": "Digg is the homepage of the internet, featuring the best articles, videos, and original content that the web is talking about right now.",
+      "logo": "http://a4.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1397180182/e77f8f561153ffb45a9ffd538978380d.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.05 ],
+        "startups": [ 0.0, 0.08 ],
+        "schools": [ 0.0, 0.22 ],
+        "mobile-companies": [ 0.0, 0.25 ]
+      }
+    },
+    {
+      "name": "MongoDB",
+      "slug": "mongodb",
+
+      "desc": "MongoDB is a data management company that provides a NoSQL and big data database that enables business to be more agile and scalable.",
+      "logo": "http://a4.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1397190449/bcc22304e743901034ba69ab2a262ebf.png",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.05 ],
+        "startups": [ 0.32, 0.47 ],
+        "schools": [ 0.0, 0.18 ],
+        "mobile-companies": [ 0.0, 0.05 ]
+      }
+    },
+    {
+      "name": "Foursquare",
+      "slug": "foursquare",
+
+      "desc": "Foursquare is a location-based social network where users receive points and virtual badges for 'checking in' at selected venues.",
+      "logo": "http://a3.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1397751280/bab97d5ef0ed2d12e5257688cf56eb6a.png",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.34 ],
+        "startups": [ 0.44, 0.57 ],
+        "schools": [ 0.0, 0.24 ],
+        "mobile-companies": [ 0.73, 0.92 ]
+      }
+    },
+    {
+      "name": "LinkedIn",
+      "slug": "linkedin",
+
+      "desc": "LinkedIn is a professional networking site that allows members to create business connections, search for jobs, and find potential clients.",
+      "logo": "http://a1.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1398126453/adu2g57bgen4u9lb1kb1.png",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.26 ],
+        "startups": [ 0.0, 0.17 ],
+        "schools": [ 0.0, 0.24 ],
+        "mobile-companies": [ 0.0, 0.05 ]
+      }
+    },
+    {
+      "name": "Groupon",
+      "slug": "groupon",
+
+      "desc": "Groupon provides merchants with a suite of products and services such as customizable deals, payment processes and point-of-sale solutions.",
+      "logo": "http://a3.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1397193316/33bdf1574b179b9ca8a8793bc6925cab.png",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.08 ],
+        "startups": [ 0.0, 0.12 ],
+        "schools": [ 0.0, 0.28 ],
+        "mobile-companies": [ 0.0, 0.22 ]
+      }
+    },
+    {
+      "name": "Jelly",
+      "slug": "jelly",
+
+      "desc": "Jelly HQ is envisioned to consist of loosely distributed networks of people coordinating to help each other and to do good.",
+      "logo": "http://a5.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1397182876/2a12b6119e14ef742587fd7c5ad54667.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.45 ],
+        "startups": [ 0.7, 0.8 ],
+        "schools": [ 0.0, 0.92 ],
+        "mobile-companies": [ 0.0, 0.85 ]
+      }
+    },
+    {
+      "name": "Secret",
+      "slug": "secret",
+
+      "desc": "Secret offers an online platform that enables users to share their personal secrets with other users anonymously.",
+      "logo": "http://a5.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1397186319/c749066c7a85fd0ea9f5a74dc70f554d.png",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.46 ],
+        "startups": [ 0.91, 0.65 ],
+        "schools": [ 0.0, 0.16 ],
+        "mobile-companies": [ 0.46, 0.71 ]
+      }
+    },
+    {
+      "name": "Gilt Groupe",
+      "slug": "gilt-groupe",
+
+      "desc": "Gilt Groupe is an online shopping website that provides instant insider access to top designer labels.",
+      "logo": "http://a4.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1397182712/cbacc623ec47fab90f5231cc6281ae4e.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.11 ],
+        "startups": [ 0.0, 0.25 ],
+        "schools": [ 0.0, 0.14 ],
+        "mobile-companies": [ 0.0, 0.22 ]
+      }
+    },
+
+    {
+      "name": "Whisper",
+      "slug": "whisper",
+
+      "desc": "Whisper is an anonymous social network that lets people share confessions, express themselves, and meet new people.",
+      "logo": "http://a2.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1398139916/bhlurzb4svknxepvwjzj.png",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.56 ],
+        "startups": [ 0.6, 0.72 ],
+        "schools": [ 0.0, 0.57 ],
+        "mobile-companies": [ 0.45, 0.52 ]
+      }
+    },
+
+    {
+      "name": "Spring",
+      "slug": "spring",
+
+      "desc": "We are on a mission to create the world's best Mobile Shopping experience.",
+      "logo": "http://a2.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1404912637/azom3672n24cfijhcxkx.png",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.34 ],
+        "startups": [ 0.83, 0.71 ],
+        "schools": [ 0.0, 0.36 ],
+        "mobile-companies": [ 0.25, 0.52 ]
+      }
+    },
+    {
+      "name": "Box",
+      "slug": "box",
+
+      "desc": "Box is an online file sharing and cloud content management service offering unlimited storage, custom branding, and administrative controls.",
+      "logo": "http://a3.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1397180496/e96bdc0ca52573d3b0f3b5bab25cfa32.png",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.08 ],
+        "startups": [ 0.0, 0.13 ],
+        "schools": [ 0.0, 0.35 ],
+        "mobile-companies": [ 0.0, 0.23 ]
+      }
+    },
+    {
+      "name": "Confide",
+      "slug": "confide",
+
+      "desc": "Your Off-the-Record Messenger.",
+      "logo": "http://a3.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1397180307/53e60b128c92d64dbad6ec11a4723c66.png",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.13 ],
+        "startups": [ 0.5, 0.4 ],
+        "schools": [ 0.0, 0.17 ],
+        "mobile-companies": [ 0.0, 0.37 ]
+      }
+    },
+    {
+      "name": "Yext",
+      "slug": "yext",
+
+      "desc": "Yext provides GeoMarketing cloud that lets marketers manage their local content, listings, social pages, store pages, campaigns analytics.",
+      "logo": "http://a3.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1397749326/f04e5b5559a651bceb9025b5d7c67d87.png",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.03 ],
+        "startups": [ 0.0, 0.08 ],
+        "schools": [ 0.0, 0.15 ],
+        "mobile-companies": [ 0.0, 0.05 ]
+      }
+    },
+    {
+      "name": "Spotify",
+      "slug": "spotify",
+
+      "desc": "Spotify is a commercial digital music service enabling users to access audio content from a range of artists and labels.",
+      "logo": "http://a5.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1397186542/31a04f5680ac383a7112da3adf807c61.png",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.08 ],
+        "startups": [ 0.2, 0.28 ],
+        "schools": [ 0.0, 0.04 ],
+        "mobile-companies": [ 0.0, 0.24 ]
+      }
+    },
+    {
+      "name": "Dropbox",
+      "slug": "dropbox",
+
+      "desc": "Dropbox operates a free file hosting service that allows users to share and access photos, documents and videos anywhere.",
+      "logo": "http://a5.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1397180929/cedd0960427005fa14cd4657f1a7b12c.png",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.16 ],
+        "startups": [ 0.0, 0.18 ],
+        "schools": [ 0.0, 0.05 ],
+        "mobile-companies": [ 0.0, 0.08 ]
+      }
+    },
+    {
+      "name": "Yahoo!",
+      "slug": "yahoo",
+
+      "desc": "Yahoo! is a multinational internet corporation that offers a web portal, search engine, e-mail and other related services.",
+      "logo": "http://a2.images.crunchbase.com/image/upload/c_pad,h_98,w_98/v1397180248/c187156ec70bbfdaa955acbb559c3389.png",
+      "scores": {
+        "large-tech-companies": [ 0.32, 0.5 ],
+        "startups": [ 0.0, 0.3 ],
+        "schools": [ 0.0, 0.25 ],
+        "mobile-companies": [ 0.0, 0.36 ]
+      }
+    },
+    {
+      "name": "Brown",
+      "slug": "brown",
+
+      "desc": "Brown University",
+      "logo": "https://coursera-university-assets.s3.amazonaws.com/c6/d5fc95810a4783b7f71c066c620a54/1_brown_logo_coursera.png",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.62 ],
+        "startups": [ 0.0, 0.86 ],
+        "schools": [ 0.8, 0.9 ],
+        "mobile-companies": [ 0.0, 0.57 ]
+      }
+    },
+    {
+      "name": "Cornell",
+      "slug": "cornell",
+
+      "desc": "Cornell University",
+      "logo": "http://www.nbb.cornell.edu/neurobio/ragusolab/images/cornell.gif",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.67 ],
+        "startups": [ 0.0, 0.58 ],
+        "schools": [ 0.95, 0.93 ],
+        "mobile-companies": [ 0.0, 0.47 ]
+      }
+    },
+    {
+      "name": "Stanford",
+      "slug": "stanford",
+
+      "desc": "Stanford University",
+      "logo": "http://web.stanford.edu/~bergsdav/stanfordlogo.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.76 ],
+        "startups": [ 0.0, 0.8 ],
+        "schools": [ 0.82, 0.92 ],
+        "mobile-companies": [ 0.0, 0.83 ]
+      }
+    },
+    {
+      "name": "MIT",
+      "slug": "mit",
+
+      "desc": "MIT",
+      "logo": "http://web.mit.edu/icl/MIT%20logo.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.0, 0.77 ],
+        "startups": [ 0.0, 0.83 ],
+        "schools": [ 0.7, 0.99 ],
+        "mobile-companies": [ 0.0, 0.88 ]
+      }
+    }
+  ]
+}
