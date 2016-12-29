@@ -6,7 +6,7 @@ angular.module('kraken').service('krAPI', function ($http) {
         limit: 100
       }, opts || {})
 
-      return $http.get('/assets/data/candidates2.json', { params: opts })
+      return $http.get('https://fisch0920.github.io/kraken-visualization/assets/data/candidates2.json', { params: opts })
         .then(function (response) {
           return response.data.candidates
         })
@@ -20,7 +20,7 @@ angular.module('kraken').service('krAPI', function ($http) {
         limit: 100
       }, opts || {})
 
-      return $http.get('/assets/data/organizations2.json', { params: opts })
+      return $http.get('https://fisch0920.github.io/kraken-visualization/assets/data/organizations2.json', { params: opts })
         .then(function (response) {
           return response.data.organizations
         })
