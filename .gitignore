@@ -8,3 +8,4 @@
 log/*
 assets/third-party
 node_modules
+conf
