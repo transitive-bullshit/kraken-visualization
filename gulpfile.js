@@ -6,6 +6,8 @@ var s3          = require('./lib/gulp-s3')
 // load all plugins
 var $ = require('gulp-load-plugins')()
 
+var prefix = 'https://fisch0920.github.io/kraken-visualization/dist/'
+
 function uploadToS3 (files) {
   var conf = JSON.parse(fs.readFileSync('./conf/aws.json'))
   return gulp.src(files)
@@ -97,7 +99,7 @@ gulp.task('minify', [ 'styles', 'scripts', 'partials' ], function () {
 
 gulp.task('html', [ 'minify' ], function () {
   return gulp.src('dist/index.html')
-    .pipe($.prefix('http://fathom-web.s3-website-us-west-2.amazonaws.com/', [
+    .pipe($.prefix(prefix, [
       { match: "script[src]", attr: "src" },
       { match: "link[href]", attr: "href" }
     ]))
