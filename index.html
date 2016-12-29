@@ -1,0 +1,85 @@
+<!doctype html>
+<html xmlns:ng="http://angularjs.org" id="ng-app" lang="en" ng-app="kraken">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>Kraken</title>
+
+    <meta name="author"    content="Kraken">
+    <meta name="copyright" content="Kraken 2014">
+    <meta name="robots"    content="index,follow">
+
+    <meta name="viewport"  content="user-scalable=no, width=device-width, minimum-scale=1.0, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable"       content="yes">
+    <meta name="application-name"             content="Kraken">
+
+    <meta property="og:image"     content="/assets/img/logo.png"/>
+    <meta property="og:title"     content="Kraken"/>
+    <meta property="og:site_name" content="Kraken"/>
+    <meta property="og:type"      content="website"/>
+
+    <meta property="image"        content="/assets/img/logo.png"/>
+    <meta itemprop="name"         content="Kraken"/>
+
+    <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
+    <link rel="icon"          href="/assets/img/favicon.ico" type="image/x-icon">
+
+    <!-- build:css /assets/css/app.min.css -->
+    <link rel="stylesheet" href="/assets/third-party/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/third-party/bootstrap/dist/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="/assets/third-party/angular-loading-bar/build/loading-bar.min.css">
+    <link rel="stylesheet" href="/assets/css/app.css">
+    <!-- endbuild -->
+  </head>
+
+  <body ng-controller="RootCtrl">
+    <div ng-include="'assets/html/flash.html'"></div>
+
+    <!-- angular view content injected here -->
+    <div id='content' ui-view></div>
+
+    <div id="scripts">
+      <!-- build:js /assets/js/app.min.js -->
+      <!-- basic third-party dependencies -->
+      <script src="/assets/third-party/jquery/dist/jquery.min.js"></script>
+      <script src="/assets/third-party/underscore/underscore.js"></script>
+      <script src="/assets/third-party/d3/d3.min.js"></script>
+      <script src="/assets/third-party/bootstrap/dist/js/bootstrap.min.js"></script>
+      <script src="/assets/third-party/dat-gui/build/dat.gui.min.js"></script>
+      <script src="/assets/third-party/stats.js/build/stats.min.js"></script>
+      <script src="/assets/third-party/raf.js/raf.min.js"></script>
+
+      <!-- angular dependencies -->
+      <script src="/assets/third-party/angular/angular.min.js"></script>
+      <script src="/assets/third-party/angular-ui-router/release/angular-ui-router.min.js"></script>
+      <script src="/assets/third-party/angular-animate/angular-animate.min.js"></script>
+      <script src="/assets/third-party/angular-flash/dist/angular-flash.min.js"></script>
+      <script src="/assets/third-party/angular-bootstrap/ui-bootstrap.min.js"></script>
+      <script src="/assets/third-party/angular-bootstrap/ui-bootstrap-tpls.min.js"></script>
+      <script src="/assets/third-party/angular-loading-bar/build/loading-bar.min.js"></script>
+
+      <!-- angular app -->
+      <script src="/assets/js/app.js"></script>
+
+      <!-- angular controllers -->
+      <script src="/assets/js/controllers/RootCtrl.js"></script>
+      <script src="/assets/js/controllers/HomeCtrl.js"></script>
+      <script src="/assets/js/controllers/ModalCandidateCtrl.js"></script>
+      <script src="/assets/js/controllers/ModalOrganizationCtrl.js"></script>
+
+      <!-- angular services -->
+      <script src="/assets/js/services/kr-api.js"></script>
+      <script src="/assets/js/services/kr-utils.js"></script>
+      <script src="/assets/js/services/kr-dat-gui.js"></script>
+
+      <!-- angular directives -->
+      <script src="/assets/js/directives/kr-visualization.js"></script>
+
+      <!-- inject:partials -->
+      <!-- endinject -->
+      <!-- endbuild -->
+    </div>
+  </body>
+</html>

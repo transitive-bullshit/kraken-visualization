@@ -1,0 +1,14 @@
+      ctx.drawImage(hex, 0, 0, size, size)
+
+      var im = ctx.getImageData(0, 0, size, size)
+      for (var i = 0; i < size; ++i) {
+        for (var j = 0; j < size; ++j) {
+          var o = (i * size + j) * 4
+
+          im.data[o + 0] = c.r
+          im.data[o + 1] = c.g
+          im.data[o + 2] = c.b
+        }
+      }
+      ctx.putImageData(im, 0, 0)
+

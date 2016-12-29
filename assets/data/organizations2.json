@@ -1,0 +1,985 @@
+{
+  "organizations": [
+
+    {
+      "name": "Brown University",
+      "slug": "brown",
+
+      "desc": "",
+      "logo": "https://coursera-university-assets.s3.amazonaws.com/c6/d5fc95810a4783b7f71c066c620a54/1_brown_logo_coursera.png",
+      "scores": {
+        "schools": [ 0.65, 0.7 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "name": "Carnegie Mellon University",
+      "slug": "cmu",
+
+      "desc": "",
+      "logo": "http://www.cs.cmu.edu/~muli/img/scs.gif",
+      "scores": {
+        "schools": [ 0.9, 0.92 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "name": "Columbia University",
+      "slug": "columbia",
+
+      "desc": "",
+      "logo": "http://www.wikicu.com/images/thumb/d/d0/ColumbiaClubSeal.gif/120px-ColumbiaClubSeal.gif",
+      "scores": {
+        "schools": [ 0.8, 0.8 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+
+    {
+      "name": "Cornell University",
+      "slug": "cornell",
+
+      "desc": "",
+      "logo": "http://static.tumblr.com/0b63bd96f506de1072a6d9508cde1d97/onlkile/Z9Nmv111t/tumblr_static_cornell_logo_new.png",
+      "scores": {
+        "schools": [ 0.8, 0.83 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "name": "Drexel University",
+      "slug": "drexel",
+
+      "desc": "",
+      "logo": "http://www.natcom.org/uploadedImages/More_Scholarly_Resources/Doctoral_Program_Resource_Guide/Drexel%20Logo.gif",
+      "scores": {
+        "schools": [ 0.2, 0.12 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "name": "Georgie Institute of Technology",
+      "slug": "georgia tech",
+
+      "desc": "",
+      "logo": "http://odk.org/wp-content/uploads/2014/05/georgia-tech.png",
+      "scores": {
+        "schools": [ 0.7, 0.7 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "name": "Harvard University",
+      "slug": "harvard",
+
+      "desc": "",
+      "logo": "http://logodatabases.com/harvard-university-logo.html/harvard-logo",
+      "scores": {
+        "schools": [ 0.9, 0.79 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "name": "Johns Hopkins University",
+      "slug": "johns hopkins",
+
+      "desc": "",
+      "logo": "http://api.hub.jhu.edu/factory/sites/default/files/styles/hub_thumbnail/public/shield.jpg",
+      "scores": {
+        "schools": [ 0.7, 0.63 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "name": "Massachusetts Institute of Technology (MIT)",
+      "slug": "mit",
+
+      "desc": "",
+      "logo": "http://web.mit.edu/icl/MIT%20logo.jpg",
+      "scores": {
+        "schools": [ 1.0, 0.93 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "name": "New York University",
+      "slug": "nyu",
+
+      "desc": "",
+      "logo": "http://www.thesigncompany.com/images/ourclients/nyu.jpg",
+      "scores": {
+        "schools": [ 0.7, 0.74 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "name": "Princeton University",
+      "slug": "princeton",
+
+      "desc": "",
+      "logo": "http://irc.princeton.edu/archive/MUN_team/Pictures/logo.png",
+      "scores": {
+        "schools": [ 0.85, 0.81 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "name": "Rensselaer Polytechnic Institute",
+      "slug": "rpi",
+
+      "desc": "",
+      "logo": "http://www.natcom.org/uploadedImages/More_Scholarly_Resources/Doctoral_Program_Resource_Guide/RPI_logo.jpg",
+      "scores": {
+        "schools": [ 0.6, 0.66 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "name": "Rutgers University",
+      "slug": "rutgers",
+
+      "desc": "",
+      "logo": "http://upload.wikimedia.org/wikipedia/en/c/ce/Rutgers,_The_State_University_of_New_Jersey_logo.png",
+      "scores": {
+        "schools": [ 0.4, 0.47 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "name": "Stanford University",
+      "slug": "stanford",
+
+      "desc": "",
+      "logo": "http://web.stanford.edu/~bergsdav/stanfordlogo.jpg",
+      "scores": {
+        "schools": [ 1.0, 0.94 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "name": "Stevens Institute of Technology",
+      "slug": "stevens",
+
+      "desc": "",
+      "logo": "http://personal.stevens.edu/~asalighe/logo2.gif",
+      "scores": {
+        "schools": [ 0.2, 0.11 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "name": "State University of New York - Stony Brook",
+      "slug": "suny-stony brook",
+
+      "desc": "",
+      "logo": "",
+      "scores": {
+        "schools": [ 0.2, 0.23 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "name": "University of California, Berkeley",
+      "slug": "uc-berkeley",
+
+      "desc": "",
+      "logo": "https://lh6.googleusercontent.com/-5Lnp5Lj9rVQ/AAAAAAAAAAI/AAAAAAAAAtY/F_t-61CH55M/s120-c/photo.jpg",
+      "scores": {
+        "schools": [ 0.8, 0.84 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "name": "University of California, Los Angeles",
+      "slug": "ucla",
+
+      "desc": "",
+      "logo": "http://brand.ucla.edu/wp-content/uploads/2013/08/ucla-seal-main-31.jpg",
+      "scores": {
+        "schools": [ 0.5, 0.52 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "name": "University of Pennsylvania",
+      "slug": "upenn",
+
+      "desc": "",
+      "logo": "http://www.freelogovectors.net/wp-content/uploads/2014/01/Penn_Logo_University_of_Pennsylvania-Coat-of-Arms1.jpg",
+      "scores": {
+        "schools": [ 0.7, 0.75 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+    {
+      "name": "Yale University",
+      "slug": "yale",
+
+      "desc": "",
+      "logo": "http://news.yale.edu/sites/default/files/Bulldogs.jpg",
+      "scores": {
+        "schools": [ 0.7, 0.62 ],
+        "big-data": [ 0.0, 0.0 ],
+        "ux": [ 0.0, 0.0 ],
+        "banking": [ 0.0, 0.0 ]
+      }
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "Amazon.com",
+      "slug": "amazon",
+
+      "desc": "",
+      "logo": "http://www.irisemedia.com/blog/wp-content/uploads/2014/05/amazon-logo.png",
+      "scores": {
+        "schools": [ 0.0, 0.61 ],
+        "big-data": [ 1.0, 0.74 ],
+        "ux": [ 0.0, 0.37 ],
+        "banking": [ 0.0, 0.4 ]
+      }
+    },
+
+
+    {
+      "name": "AOL",
+      "slug": "aol",
+
+      "desc": "",
+      "logo": "http://ar2.in/wp-content/uploads/2013/10/5bce6aca2ef47f2b1ba9b91373f61d17.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.5 ],
+        "big-data": [ 0.0, 0.3 ],
+        "ux": [ 0.0, 0.3 ],
+        "banking": [ 0.0, 0.4 ]
+      }
+    },
+
+
+    {
+      "name": "Apple",
+      "slug": "apple",
+
+      "desc": "",
+      "logo": "https://cdn3.iconfinder.com/data/icons/picons-social/57/56-apple-512.png",
+      "scores": {
+        "schools": [ 0.0, 0.73 ],
+        "big-data": [ 0.0, 0.65 ],
+        "ux": [ 1.0, 0.95 ],
+        "banking": [ 0.0, 0.3 ]
+      }
+    },
+
+
+    {
+      "name": "Bank of America",
+      "slug": "bank of america",
+
+      "desc": "",
+      "logo": "http://i.volckmann.com/wp-content/uploads/2012/12/P_BofA02.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.35 ],
+        "big-data": [ 0.0, 0.2 ],
+        "ux": [ 0.0, 0.2 ],
+        "banking": [ 1.0, 0.9 ]
+      }
+    },
+
+
+    {
+      "name": "Barclays PLC",
+      "slug": "barclays",
+
+      "desc": "",
+      "logo": "http://www.techweekeurope.co.uk/wp-content/uploads/2013/01/Barclays-Logo-247x180.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.3 ],
+        "big-data": [ 0.0, 0.2 ],
+        "ux": [ 0.0, 0.21 ],
+        "banking": [ 0.0, 0.67 ]
+      }
+    },
+
+
+    {
+      "name": "Bloomberg L.P.",
+      "slug": "bloomberg",
+
+      "desc": "",
+      "logo": "http://tabtimes.com/sites/default/files/bloomberg.jpeg",
+      "scores": {
+        "schools": [ 0.0, 0.53 ],
+        "big-data": [ 0.0, 0.4 ],
+        "ux": [ 0.0, 0.3 ],
+        "banking": [ 0.0, 0.6 ]
+      }
+    },
+
+
+    {
+      "name": "Broadridge Financial Solutions",
+      "slug": "broadridge",
+
+      "desc": "",
+      "logo": "http://www.indiacatalog.com/images/logos/local/th_broadridge.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.24 ],
+        "big-data": [ 0.0, 0.12 ],
+        "ux": [ 0.0, 0.37 ],
+        "banking": [ 0.0, 0.73 ]
+      }
+    },
+
+
+    {
+      "name": "Citigroup",
+      "slug": "citi",
+
+      "desc": "",
+      "logo": "http://cluebirdstudio.files.wordpress.com/2011/11/citigrouplogo.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.36 ],
+        "big-data": [ 0.0, 0.2 ],
+        "ux": [ 0.0, 0.12 ],
+        "banking": [ 1.0, 0.85 ]
+      }
+    },
+
+
+    {
+      "name": "Cognizant Technology Solutions",
+      "slug": "cognizant",
+
+      "desc": "",
+      "logo": "http://a2.mzstatic.com/us/r30/Purple4/v4/40/59/75/4059757f-91e9-46c2-bd94-f1a647870f0c/icon_340.png",
+      "scores": {
+        "schools": [ 0.0, 0.27 ],
+        "big-data": [ 0.0, 0.14 ],
+        "ux": [ 0.0, 0.14 ],
+        "banking": [ 0.0, 0.6 ]
+      }
+    },
+
+    {
+      "name": "D.E. Shaw & Co.",
+      "slug": "de shaw",
+
+      "desc": "",
+      "logo": "http://dealbreaker.com/uploads/2011/02/deshaw.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.74 ],
+        "big-data": [ 0.0, 0.62 ],
+        "ux": [ 0.0, 0.48 ],
+        "banking": [ 0.0, 0.25 ]
+      }
+    },
+
+    {
+      "name": "Etsy",
+      "slug": "etsy",
+
+      "desc": "",
+      "logo": "http://www.douglashwang.com/assets/img/link/etsy.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.68 ],
+        "big-data": [ 0.0, 0.54 ],
+        "ux": [ 1.0, 0.9 ],
+        "banking": [ 0.0, 0.23 ]
+      }
+    },
+
+
+    {
+      "name": "Facebook",
+      "slug": "facebook",
+
+      "desc": "",
+      "logo": "http://www.cimabelfin.com/_Media/fblogo.gif",
+      "scores": {
+        "schools": [ 0.0, 0.76 ],
+        "big-data": [ 0.0, 0.7 ],
+        "ux": [ 0.0, 0.57 ],
+        "banking": [ 0.0, 0.3 ]
+      }
+    },
+
+
+    {
+      "name": "FactSet Research Systems",
+      "slug": "factset",
+
+      "desc": "",
+      "logo": "https://lh4.googleusercontent.com/-90-uIGFGy58/AAAAAAAAAAI/AAAAAAAACII/O9apys6u880/s120-c/photo.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.63 ],
+        "big-data": [ 0.0, 0.35 ],
+        "ux": [ 0.0, 0.35 ],
+        "banking": [ 0.0, 0.45 ]
+      }
+    },
+
+
+    {
+      "name": "foursquare",
+      "slug": "foursquare",
+
+      "desc": "",
+      "logo": "http://static2.businessinsider.com/image/526ea08069beddf91b8b456a-960/foursquare%20flat%20logo.png",
+      "scores": {
+        "schools": [ 0.0, 0.73],
+        "big-data": [ 0.0, 0.65 ],
+        "ux": [ 1.0, 0.9 ],
+        "banking": [ 0.0, 0.2 ]
+      }
+    },
+
+
+
+    {
+      "name": "Goldman Sachs",
+      "slug": "goldman",
+
+      "desc": "",
+      "logo": "http://www.labbrand.com/sites/default/files/post_blog/images/custom/GoldmanSachsLogo.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.47 ],
+        "big-data": [ 0.0, 0.3 ],
+        "ux": [ 0.0, 0.27 ],
+        "banking": [ 1.0, 0.88 ]
+      }
+    },
+
+
+    {
+      "name": "Google",
+      "slug": "google",
+
+      "desc": "",
+      "logo": "http://www.makingdifferent.com/wp-content/uploads/2014/09/google.png",
+      "scores": {
+        "schools": [ 0.0, 0.72 ],
+        "big-data": [ 1.0, 0.81 ],
+        "ux": [ 0.0, 0.53 ],
+        "banking": [ 0.0, 0.33 ]
+      }
+    },
+
+
+    {
+      "name": "Hacker School",
+      "slug": "hacker school",
+
+      "desc": "",
+      "logo": "http://static2.businessinsider.com/image/51bb5c7fecad04bf70000026-1200/hacker-school.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.71 ],
+        "big-data": [ 0.0, 0.53 ],
+        "ux": [ 0.0, 0.7 ],
+        "banking": [ 0.0, 0.17 ]
+      }
+    },
+
+    {
+      "name": "HowAboutWe",
+      "slug": "howaboutwe",
+
+      "desc": "",
+      "logo": "https://www.howaboutwe.com/assets/logo-haw_blue-large.png",
+      "scores": {
+        "schools": [ 0.0, 0.72 ],
+        "big-data": [ 0.0, 0.5 ],
+        "ux": [ 0.0, 0.6 ],
+        "banking": [ 0.0, 0.2 ]
+      }
+    },
+
+
+    {
+      "name": "Huge, Inc.",
+      "slug": "huge",
+
+      "desc": "",
+      "logo": "http://chinwag.com/files/images/general/huge_logo_0.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.27 ],
+        "big-data": [ 0.0, 0.13 ],
+        "ux": [ 0.0, 0.2 ],
+        "banking": [ 0.0, 0.24 ]
+      }
+    },
+
+
+    {
+      "name": "IBM",
+      "slug": "ibm",
+
+      "desc": "",
+      "logo": "http://www.studytopper.com/wp-content/uploads/2014/05/IBM-Logo.gif",
+      "scores": {
+        "schools": [ 0.0, 0.51 ],
+        "big-data": [ 0.0, 0.35 ],
+        "ux": [ 0.0, 0.3 ],
+        "banking": [ 0.0, 0.44 ]
+      }
+    },
+
+
+    {
+      "name": "Jane Street Capital",
+      "slug": "jane street",
+
+      "desc": "",
+      "logo": "http://qph.is.quoracdn.net/main-thumb-t-76909-200-rscadunmuihjytwayiivnjoiwcvdvlem.jpeg",
+      "scores": {
+        "schools": [ 0.0, 0.81 ],
+        "big-data": [ 0.0, 0.72 ],
+        "ux": [ 0.0, 0.55 ],
+        "banking": [ 0.0, 0.3 ]
+      }
+    },
+
+    {
+      "name": "J.P. Morgan",
+      "slug": "jp morgan",
+
+      "desc": "",
+      "logo": "",
+      "scores": {
+        "schools": [ 0.0, 0.39 ],
+        "big-data": [ 0.0, 0.22 ],
+        "ux": [ 0.0, 0.22 ],
+        "banking": [ 1.0, 0.86 ]
+      }
+    },
+
+
+    {
+      "name": "Knewton",
+      "slug": "knewton",
+
+      "desc": "",
+      "logo": "http://static.blog.beatthegmat.com/mba/files/2011/06/Knewton-Logo-Stacked-100x100.png",
+      "scores": {
+        "schools": [ 0.0, 0.76 ],
+        "big-data": [ 0.0, 0.57 ],
+        "ux": [ 0.0, 0.56 ],
+        "banking": [ 0.0, 0.3 ]
+      }
+    },
+
+
+    {
+      "name": "Lockheed Martin",
+      "slug": "lockheed martin",
+
+      "desc": "",
+      "logo": "http://www.astoriasoftware.com/pics/our_customers/lockheedmartin_logo.gif",
+      "scores": {
+        "schools": [ 0.0, 0.56 ],
+        "big-data": [ 0.0, 0.36 ],
+        "ux": [ 0.0, 0.3 ],
+        "banking": [ 0.0, 0.26 ]
+      }
+    },
+
+
+    {
+      "name": "Merrill Lynch",
+      "slug": "merrill lynch",
+
+      "desc": "",
+      "logo": "http://thefinancialbrand.com/wp-content/uploads/2009/07/merrill-lynch-bull.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.38 ],
+        "big-data": [ 0.0, 0.22 ],
+        "ux": [ 0.0, 0.14 ],
+        "banking": [ 1.0, 0.87 ]
+      }
+    },
+
+
+    {
+      "name": "Microsoft",
+      "slug": "microsoft",
+
+      "desc": "",
+      "logo": "http://www.findthatlogo.com/wp-content/gallery/microsoft-logos/microsoft-logo-icon.png",
+      "scores": {
+        "schools": [ 0.0, 0.64 ],
+        "big-data": [ 0.0, 0.54 ],
+        "ux": [ 0.0, 0.45 ],
+        "banking": [ 0.0, 0.39 ]
+      }
+    },
+
+
+    {
+      "name": "MongoDB",
+      "slug": "mongodb",
+
+      "desc": "",
+      "logo": "http://fc01.deviantart.net/fs70/f/2010/168/e/1/Icon_MongoDB_by_xkneo.png",
+      "scores": {
+        "schools": [ 0.0, 0.79 ],
+        "big-data": [ 1.0, 0.86 ],
+        "ux": [ 0.0, 0.37 ],
+        "banking": [ 0.0, 0.35 ]
+      }
+    },
+
+
+    {
+      "name": "Morgan Stanley",
+      "slug": "morgan stanley",
+
+      "desc": "",
+      "logo": "http://money360.info/wp-content/uploads/2014/05/morgan-stanley-logo-pngsponsors-k5twt12c.png",
+      "scores": {
+        "schools": [ 0.0, 0.44 ],
+        "big-data": [ 0.0, 0.27 ],
+        "ux": [ 0.0, 0.21 ],
+        "banking": [ 1.0, 0.86 ]
+      }
+    },
+
+
+    {
+      "name": "The New York Times",
+      "slug": "nytimes",
+
+      "desc": "",
+      "logo": "http://www.theblaze.com/wp-content/uploads/2013/05/NYTIMES_LOGO.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.56 ],
+        "big-data": [ 0.0, 0.36 ],
+        "ux": [ 0.0, 0.42 ],
+        "banking": [ 0.0, 0.28 ]
+      }
+    },
+
+    {
+      "name": "Palantir",
+      "slug": "palantir",
+
+      "desc": "",
+      "logo": "http://walkaboutnyc.com/assets/logos/twitter/palantirtech-0ae0ca89f8e490dcf4f12514cf6f3991.png",
+      "scores": {
+        "schools": [ 0.0, 0.78 ],
+        "big-data": [ 1.0, 0.89 ],
+        "ux": [ 0.0, 0.56 ],
+        "banking": [ 0.0, 0.45 ]
+      }
+    },
+
+    {
+      "name": "Pivotal Labs",
+      "slug": "pivotal labs",
+
+      "desc": "",
+      "logo": "http://farm6.static.flickr.com/5202/5257879299_468d8cbf8e_n.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.86 ],
+        "big-data": [ 0.0, 0.69 ],
+        "ux": [ 0.0, 0.62 ],
+        "banking": [ 0.0, 0.24 ]
+      }
+    },
+
+
+    {
+      "name": "Qwiki",
+      "slug": "qwiki",
+
+      "desc": "",
+      "logo": "http://searchengineland.com/figz/wp-content/seloads/2012/06/qwiki-logo.png",
+      "scores": {
+        "schools": [ 0.0, 0.69 ],
+        "big-data": [ 0.0, 0.41 ],
+        "ux": [ 1.0, 0.55 ],
+        "banking": [ 0.0, 0.25 ]
+      }
+    },
+
+
+    {
+      "name": "Rent the Runway",
+      "slug": "rent the runway",
+
+      "desc": "",
+      "logo": "http://www.hudsonsquarebid.org/wordpress/wp-content/uploads/2012/02/RTR-logo1.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.68 ],
+        "big-data": [ 0.0, 0.48 ],
+        "ux": [ 1.0, 0.9 ],
+        "banking": [ 0.0, 0.44 ]
+      }
+    },
+
+
+    {
+      "name": "Reuters",
+      "slug": "reuters",
+
+      "desc": "",
+      "logo": "http://www.technotricks.in/wp-content/uploads/2012/07/thomson-reuters-logo.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.49 ],
+        "big-data": [ 0.0, 0.3 ],
+        "ux": [ 0.0, 0.24 ],
+        "banking": [ 0.0, 0.7 ]
+      }
+    },
+
+    {
+      "name": "Sanofi Aventis",
+      "slug": "sanofi-aventis",
+
+      "desc": "",
+      "logo": "",
+      "scores": {
+        "schools": [ 0.0, 0.26 ],
+        "big-data": [ 0.0, 0.13 ],
+        "ux": [ 0.0, 0.1 ],
+        "banking": [ 0.0, 0.77 ]
+      }
+    },
+
+
+    {
+      "name": "Spotify",
+      "slug": "spotify",
+
+      "desc": "",
+      "logo": "http://img.talkandroid.com/uploads/2013/12/Spotify_Large_Icon.png",
+      "scores": {
+        "schools": [ 0.0, 0.68 ],
+        "big-data": [ 0.0, 0.6 ],
+        "ux": [ 0.0, 0.46 ],
+        "banking": [ 0.0, 0.32 ]
+      }
+    },
+
+
+    {
+      "name": "Stamped",
+      "slug": "stamped",
+
+      "desc": "",
+      "logo": "http://assets.fontsinuse.com/static/use-media-items/7/6628/full-500x250/5074899e/stamped-logo.png",
+      "scores": {
+        "schools": [ 0.0, 0.78 ],
+        "big-data": [ 0.0, 0.71 ],
+        "ux": [ 1.0, 0.9 ],
+        "banking": [ 0.0, 0.22 ]
+      }
+    },
+
+
+    {
+      "name": "Tata Consultancy Services",
+      "slug": "tata",
+
+      "desc": "",
+      "logo": "http://i.crn.com/logos/tata_logo.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.38 ],
+        "big-data": [ 0.0, 0.23 ],
+        "ux": [ 0.0, 0.16 ],
+        "banking": [ 0.0, 0.69 ]
+      }
+    },
+
+
+    {
+      "name": "Tumblr",
+      "slug": "tumblr",
+
+      "desc": "",
+      "logo": "http://blahtherapy.com/wp-content/uploads/group-avatars/365/f6586bd6703fce9614a86aa3e4ad0d31-bpfull.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.61 ],
+        "big-data": [ 0.0, 0.56 ],
+        "ux": [ 0.0, 0.53 ],
+        "banking": [ 0.0, 0.23 ]
+      }
+    },
+
+
+    {
+      "name": "Turntable.fm",
+      "slug": "turntable.fm",
+
+      "desc": "",
+      "logo": "http://zionicrew.com/system/files/2_3334085982_turntablefmlogo.png",
+      "scores": {
+        "schools": [ 0.0, 0.72 ],
+        "big-data": [ 0.0, 0.65 ],
+        "ux": [ 0.0, 0.53],
+        "banking": [ 0.0, 0.47 ]
+      }
+    },
+
+
+    {
+      "name": "Twitter",
+      "slug": "twitter",
+
+      "desc": "",
+      "logo": "http://www.ihd-wallpapers.com/wp-content/uploads/2014/09/Twitter_logo-3.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.66 ],
+        "big-data": [ 0.0, 0.59 ],
+        "ux": [ 0.0, 0.46 ],
+        "banking": [ 0.0, 0.32 ]
+      }
+    },
+
+
+    {
+      "name": "Two Sigma Investments",
+      "slug": "two sigma",
+
+      "desc": "",
+      "logo": "http://i.stack.imgur.com/K8JbV.png",
+      "scores": {
+        "schools": [ 0.0, 0.73 ],
+        "big-data": [ 0.0, 0.61 ],
+        "ux": [ 0.0, 0.53 ],
+        "banking": [ 0.0, 0.29 ]
+      }
+    },
+
+
+    {
+      "name": "Venmo",
+      "slug": "venmo",
+
+      "desc": "",
+      "logo": "http://brand.venmo.com/img/logo-mark.png",
+      "scores": {
+        "schools": [ 0.0, 0.71 ],
+        "big-data": [ 0.0, 0.58 ],
+        "ux": [ 1.0, 0.9 ],
+        "banking": [ 0.0, 0.4 ]
+      }
+    },
+
+
+    {
+      "name": "VMWare",
+      "slug": "vmware",
+
+      "desc": "",
+      "logo": "http://img4.wikia.nocookie.net/__cb20140525014047/logopedia/images/6/62/VMware_Workstation_7_logo.png",
+      "scores": {
+        "schools": [ 0.0, 0.56 ],
+        "big-data": [ 0.0, 0.46 ],
+        "ux": [ 0.0, 0.33 ],
+        "banking": [ 0.0, 0.38 ]
+      }
+    },
+
+
+    {
+      "name": "Wipro",
+      "slug": "wipro",
+
+      "desc": "",
+      "logo": "http://www.wipro.com/images/flower.jpg",
+      "scores": {
+        "schools": [ 0.0, 0.46 ],
+        "big-data": [ 0.0, 0.16 ],
+        "ux": [ 0.0, 0.2 ],
+        "banking": [ 0.0, 0.58 ]
+      }
+    },
+
+
+    {
+      "name": "Yahoo!",
+      "slug": "yahoo",
+
+      "desc": "",
+      "logo": "http://searchengineland.com/figz/wp-content/seloads/2011/09/Screen-shot-2011-09-16-at-5.22.22-AM-300x231.png",
+      "scores": {
+        "schools": [ 0.0, 0.68 ],
+        "big-data": [ 0.0, 0.5 ],
+        "ux": [ 0.0, 0.66 ],
+        "banking": [ 0.0, 0.27 ]
+      }
+    }
+  ]
+}

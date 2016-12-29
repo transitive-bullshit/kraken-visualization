@@ -1,0 +1,21 @@
+<div class="modal-header">
+  <img class="profile-image" ng-src="{{candidate.image}}" />
+  <h3 class="modal-title"> {{candidate.name}}</h3>
+</div>
+
+<div class="modal-body">
+  <ul class="jobs">
+    <li class="clearfix" ng-repeat="job in candidate.organizations">
+      <span class="left"><span class="organization-name">{{ job.org_name || organizations[job.slug].name }}</span> ({{ job.title }})</span>
+      <span class="right"><span class="job-dates">{{ job.dates[0] }} - {{ job.dates[1] }}</span></span>
+    </li>
+  </ul>
+
+  <p class="annotation" ng-if="candidate.annotation && (!priority || !candidate.annotation.schemes || candidate.annotation.schemes.indexOf(priority) >= 0)">
+    {{ candidate.annotation.message }}
+  </p>
+</div>
+
+<div class="modal-footer">
+  <button class="btn btn-primary" ng-click="accept()">OK</button>
+</div>

@@ -1,0 +1,13 @@
+
+<div class="candidates">
+  <a href class="candidate" ng-repeat="candidate in candidates">
+    <img class="profile-image" ng-src="{{candidate.image}}" />
+  </a>
+</div>
+
+<div class="companies">
+  <a href class="company" ng-repeat="company in companies">
+    <img class="logo" ng-src="{{company.logo}}" />
+  </a>
+</div>
+

@@ -1,0 +1,526 @@
+{
+  "candidates": [
+    {
+      "name": "Travis Fischer",
+      "desc": "Software Engineer",
+      "image": "https://media.licdn.com/media/p/3/000/0c5/076/0285397.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.72, 1.0 ],
+        "startups": [ 0.71, 1.0 ],
+        "schools": [ 0.67, 1.0 ],
+        "mobile-companies": [ 0.7, 0.2 ]
+      },
+      "organizations": [
+        {
+          "slug": "brown",
+          "dates": [ "9.1.2005", "6.1.2009" ],
+          "title": "Student"
+        },
+        {
+          "slug": "microsoft",
+          "dates": [ "9.1.2009", "9.1.2011" ],
+          "title": "Software Engineer"
+        },
+        {
+          "slug": "yahoo",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Senior Software Engineer"
+        }
+      ]
+    },
+    {
+      "name": "Geoff Liu",
+      "desc": "Engineer. Passionate, curious, recently unemployed. Looking for next adventure.",
+      "image": "https://media.licdn.com/mpr/mpr/wc_200_200/p/5/005/036/3ca/0608a7a.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.2, 0.3 ],
+        "startups": [ 0.72, 0.86 ],
+        "schools": [ 0.23, 0.59 ],
+        "mobile-companies": [ 0.35, 0.97 ]
+      },
+      "organizations": [
+        {
+          "slug": "cornell",
+          "dates": [ "9.1.2005", "6.1.2009" ],
+          "title": "Student"
+        },
+        {
+          "slug": "google",
+          "dates": [ "9.1.2009", "9.1.2011" ],
+          "title": "Software Engineer"
+        },
+        {
+          "slug": "yahoo",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Senior Software Engineer"
+        }
+      ]
+    },
+    {
+      "name": "Paul Eastlund",
+      "desc": "Adventure-seeking engineer",
+      "image": "https://media.licdn.com/media/p/2/000/20f/105/2fae9b2.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.1, 0.8 ],
+        "startups": [ 0.8, 1.0 ],
+        "schools": [ 0.4, 0.5 ],
+        "mobile-companies": [ 0.2, 0.1 ]
+      },
+      "organizations": [
+        {
+          "slug": "cornell",
+          "dates": [ "9.1.2005", "6.1.2009" ],
+          "title": "Student"
+        },
+        {
+          "slug": "google",
+          "dates": [ "9.1.2009", "9.1.2011" ],
+          "title": "Software Engineer"
+        },
+        {
+          "slug": "yahoo",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Senior Software Engineer"
+        }
+      ]
+    },
+    {
+      "name": "Landon Judkins",
+      "desc": "Software Engineer at Google",
+      "image": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_60x60_v1.png",
+      "scores": {
+        "large-tech-companies": [ 0.1, 0.35 ],
+        "startups": [ 0.4, 0.6 ],
+        "schools": [ 1.7, 2.3 ],
+        "mobile-companies": [ 0.7, 1.0 ]
+      },
+      "organizations": [
+        {
+          "slug": "brown",
+          "dates": [ "9.1.2005", "6.1.2009" ],
+          "title": "Student"
+        },
+        {
+          "slug": "google",
+          "dates": [ "9.1.2009", "9.1.2011" ],
+          "title": "Software Engineer"
+        },
+        {
+          "slug": "yahoo",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Senior Software Engineer"
+        }
+      ]
+    },
+    {
+      "name": "Michael Lowin",
+      "desc": "iOS Engineer at Vimeo",
+      "image": "https://media.licdn.com/media/p/4/005/047/06e/1bf80e4.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.01, 0.05 ],
+        "startups": [ 0.16, 0.23 ],
+        "schools": [ 0.37, 0.46 ],
+        "mobile-companies": [ 0.23, 0.25 ]
+      },
+      "organizations": [
+        {
+          "slug": "brown",
+          "dates": [ "9.1.2005", "6.1.2009" ],
+          "title": "Student"
+        },
+        {
+          "slug": "google",
+          "dates": [ "9.1.2009", "9.1.2011" ],
+          "title": "Software Engineer"
+        },
+        {
+          "slug": "yahoo",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Senior Software Engineer"
+        }
+      ]
+    },
+    {
+      "name": "Michael Chen",
+      "desc": "Senior Software Engineer at Twitter",
+      "image": "https://media.licdn.com/mpr/mpr/wc_200_200/p/4/005/03b/355/0529f64.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.57, 0.55 ],
+        "startups": [ 0.7, 0.68 ],
+        "schools": [ 0.79, 0.2 ],
+        "mobile-companies": [ 0.3, 0.36 ]
+      },
+      "organizations": [
+        {
+          "slug": "cornell",
+          "dates": [ "9.1.2005", "6.1.2009" ],
+          "title": "Student"
+        },
+        {
+          "slug": "yahoo",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Senior Software Engineer"
+        }
+      ]
+    },
+    {
+      "name": "Nong Li",
+      "desc": "Software Engineer at Cloudera",
+      "image": "https://media.licdn.com/media/p/7/000/212/1e3/1b86c3e.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.8, 0.73 ],
+        "startups": [ 0.35, 0.27 ],
+        "schools": [ 0.37, 0.67 ],
+        "mobile-companies": [ 0.69, 0.78 ]
+      },
+      "organizations": [
+        {
+          "slug": "brown",
+          "dates": [ "9.1.2005", "6.1.2009" ],
+          "title": "Student"
+        },
+        {
+          "slug": "linkedin",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Software Engineer"
+        },
+        {
+          "slug": "microsoft",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Senior Software Engineer"
+        },
+        {
+          "slug": "facebook",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Principal Architect"
+        }
+      ]
+    },
+    {
+      "name": "Andrew Bonventre",
+      "desc": "Palantir Technologies",
+      "image": "https://media.licdn.com/mpr/mpr/wc_240_240/p/4/005/027/379/04e5de2.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.4, 0.43 ],
+        "startups": [ 0.11, 0.13 ],
+        "schools": [ 0.07, 0.10 ],
+        "mobile-companies": [ 0.35, 0.24 ]
+      },
+      "organizations": [
+        {
+          "slug": "google",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Software Engineer"
+        },
+        {
+          "slug": "twitter",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Senior Software Engineer"
+        },
+        {
+          "slug": "dropbox",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Principal Software Engineer"
+        }
+      ]
+    },
+    {
+      "name": "Matthew Jacobs",
+      "desc": "Software Engineer at Cloudera",
+      "image": "https://media.licdn.com/mpr/mpr/wc_200_200/p/8/005/04e/09e/3b76413.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.27, 0.38 ],
+        "startups": [ 0.40, 0.32 ],
+        "schools": [ 0.46, 0.56 ],
+        "mobile-companies": [ 0.28, 0.33 ]
+      },
+      "organizations": [
+        {
+          "slug": "brown",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Student"
+        },
+        {
+          "slug": "facebook",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Software Engineer"
+        },
+        {
+          "slug": "microsoft",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Mobile Software Engineer"
+        }
+      ]
+    },
+    {
+      "name": "Todd Lipcon",
+      "desc": "Software Engineer at Cloudera",
+      "image": "https://media.licdn.com/mpr/mpr/wc_200_200/p/2/000/19a/13f/2fb82a0.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.33, 0.45 ],
+        "startups": [ 0.67, 0.72 ],
+        "schools": [ 0.57, 0.75 ],
+        "mobile-companies": [ 0.66, 0.65 ]
+      },
+      "organizations": [
+        {
+          "slug": "brown",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Student"
+        },
+        {
+          "slug": "google",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Software Engineer"
+        },
+        {
+          "slug": "cloudera",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Senior Software Engineer"
+        },
+        {
+          "slug": "jelly",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "CTO"
+        }
+      ]
+    },
+    {
+      "name": "Aaron Myers",
+      "desc": "Software Engineer at Cloudera",
+      "image": "https://media.licdn.com/mpr/mpr/wc_200_200/p/4/000/15a/24b/03f47aa.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.44, 0.33 ],
+        "startups": [ 0.23, 0.32 ],
+        "schools": [ 0.37, 0.45 ],
+        "mobile-companies": [ 0.28, 0.15 ]
+      },
+      "organizations": [
+        {
+          "slug": "brown",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Student"
+        },
+        {
+          "slug": "google",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Software Engineer"
+        },
+        {
+          "slug": "cloudera",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Senior Software Engineer"
+        }
+      ]
+    },
+    {
+      "name": "Elliot Horowitz",
+      "desc": "CTO and Co-Founder at MongoDB",
+      "image": "https://media.licdn.com/media/p/3/000/0ea/16e/2a43512.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.9, 1.0 ],
+        "startups": [ 0.8, 1.0 ],
+        "schools": [ 0.7, 1.0 ],
+        "mobile-companies": [ 0.6, 0.5 ]
+      },
+      "organizations": [
+        {
+          "slug": "brown",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Student"
+        },
+        {
+          "slug": "mongodb",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "CTO and Co-Founder"
+        }
+      ]
+    },
+    {
+      "name": "David Pacheco",
+      "desc": "Software Engineer at Joyent",
+      "image": "https://media.licdn.com/mpr/mpr/wc_200_200/p/1/000/026/143/1a7d129.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.5, 0.23 ],
+        "startups": [ 0.01, 0.04 ],
+        "schools": [ 0.001, 0.08 ],
+        "mobile-companies": [ 0.12, 0.16 ]
+      },
+      "organizations": [
+        {
+          "slug": "mit",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Student"
+        },
+        {
+          "slug": "foursquare",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Software Engineer"
+        }
+      ]
+    },
+    {
+      "name": "Andres Douglas",
+      "desc": "CEO at Bakodo",
+      "image": "https://media.licdn.com/media/p/1/000/01f/19a/2bd6507.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.34, 0.75 ],
+        "startups": [ 0.82, 0.79 ],
+        "schools": [ 0.34, 0.43 ],
+        "mobile-companies": [ 0.82, 0.73 ]
+      },
+      "organizations": [
+        {
+          "slug": "brown",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Student"
+        },
+        {
+          "slug": "apple",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Senior Software Engineer"
+        },
+        {
+          "slug": "secret",
+          "dates": [ "10.26.2013", "6.1.2014" ],
+          "title": "Software Engineer"
+        }
+      ]
+    },
+    {
+      "name": "Colin Hodge",
+      "desc": "CEO & Founder at DOWN (Formerly Bang With Friends)",
+      "image": "https://media.licdn.com/mpr/mpr/wc_240_240/p/2/005/024/3c4/24a53c8.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.3, 0.2 ],
+        "startups": [ 0.2, 0.3 ],
+        "schools": [ 0.1, 0.5 ],
+        "mobile-companies": [ 0.3, 0.4 ]
+      },
+      "organizations": [
+        {
+          "slug": "cornell",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Student"
+        },
+        {
+          "slug": "jelly",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Senior Software Engineer"
+        },
+        {
+          "slug": "gilt-groupe",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Senior Software Engineer"
+        }
+      ]
+    },
+    {
+      "name": "Timothy O'Donnell",
+      "desc": "Technology Specialist at Icahn School of Medicine at Mount Sinai",
+      "image": "https://media.licdn.com/mpr/mpr/wc_200_200/p/1/005/045/06b/32fb00b.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.33, 0.44 ],
+        "startups": [ 0.23, 0.54 ],
+        "schools": [ 0.34, 0.55 ],
+        "mobile-companies": [ 0.23, 0.43 ]
+      },
+      "organizations": [
+        {
+          "slug": "mit",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Student"
+        },
+        {
+          "slug": "whisper",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Senior Software Engineer"
+        },
+        {
+          "slug": "spring",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Mobile Engineer"
+        }
+      ]
+    },
+    {
+      "name": "Daniel Heller",
+      "desc": "Senior Software Engineer and Tech Lead at AppDynamics",
+      "image": "https://media.licdn.com/mpr/mpr/wc_240_240/p/7/005/07b/203/247fc76.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.01, 0.03 ],
+        "startups": [ 0.003, 0.08 ],
+        "schools": [ 0.01, 0.002 ],
+        "mobile-companies": [ 0.1, 0.05 ]
+      },
+      "organizations": [
+        {
+          "slug": "mit",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Student"
+        },
+        {
+          "slug": "box",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Senior Software Engineer"
+        }
+      ]
+    },
+    {
+      "name": "Colin Gordon",
+      "desc": "Researcher at Samsung Research",
+      "image": "https://media.licdn.com/media/p/1/000/007/227/2fd7406.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.02, 0.03 ],
+        "startups": [ 0.05, 0.02 ],
+        "schools": [ 0.07, 0.15 ],
+        "mobile-companies": [ 0.13, 0.02 ]
+      },
+      "organizations": [
+        {
+          "slug": "mit",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Student"
+        },
+        {
+          "slug": "groupon",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Senior Software Engineer"
+        }
+      ]
+    },
+    {
+      "name": "Aleks (Bromfield) Culver",
+      "desc": "Site Reliability Engineer at Google",
+      "image": "https://media.licdn.com/mpr/mpr/wc_200_200/p/7/000/29d/2da/2ab8bc9.jpg",
+      "scores": {
+        "large-tech-companies": [ 0.55, 0.82 ],
+        "startups": [ 0.75, 0.61 ],
+        "schools": [ 0.91, 0.82 ],
+        "mobile-companies": [ 0.47, 0.72 ]
+      },
+      "organizations": [
+        {
+          "slug": "mit",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Student"
+        },
+        {
+          "slug": "digg",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Software Engineer"
+        },
+        {
+          "slug": "square",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Senior Software Engineer"
+        },
+        {
+          "slug": "snapchat",
+          "dates": [ "10.26.2012", "6.1.2013" ],
+          "title": "Senior Software Engineer"
+        }
+      ]
+    }
+  ]
+}

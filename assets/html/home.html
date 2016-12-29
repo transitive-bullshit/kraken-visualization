@@ -1,0 +1,29 @@
+
+<div class="kr-visualization" kr-visualization></div>
+
+<div class="btn-group btn-reputation" dropdown is-open="reputation.isOpen">
+  <button type="button" class="btn btn-primary dropdown-toggle" ng-disabled="reputation.isDisabled">
+    Reputation <span class="caret"></span>
+  </button>
+
+  <ul class="dropdown-menu" role="menu">
+    <li ng-repeat="(key, value) in reputation.options">
+      <a href ng-click="onSelectPriority(key)">{{value}}</a>
+    </li>
+    <li ng-if="reputation.priority" class="divider"></li>
+    <li ng-if="reputation.priority"><a href ng-click="onSelectPriority(null)">Clear Priorities</a></li>
+  </ul>
+</div>
+
+<!--<button type="button" class="btn btn-primary" ng-click="onSortCandidates()">
+  Sort Candidates
+</button>
+
+<button type="button" class="btn btn-primary" ng-click="onSortOrganizations()">
+  Sort Organizations
+</button>-->
+
+<h3 class="reputation-label" ng-if="reputation.priorityLabel">{{reputation.priorityLabel}} <span ng-if="reputation.isAnimating" class="glyphicon glyphicon-refresh glyphicon-spin"></span></h3>
+
+<img class="logo" src="/assets/img/logo.png" />
+

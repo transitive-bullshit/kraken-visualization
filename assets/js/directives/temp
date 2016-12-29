@@ -1,0 +1,42 @@
+        /*
+        <filter id="filter-drop-shadow" width="150%" height="150%">
+          <feGaussianBlur in="SourceAlpha" stdDeviation="3"/> <!-- stdDeviation is how much to blur -->
+          <feOffset dx="2" dy="2" result="offsetblur"/> <!-- how much to offset -->
+          <feComponentTransfer>
+            <feFuncA type="linear" slope="0.2"/>
+          </feComponentTransfer>
+          <feMerge>
+            <feMergeNode/> <!-- this contains the offset blurred image -->
+            <feMergeNode in="SourceGraphic"/> <!-- this contains the element that the filter is applied to -->
+          </feMerge>
+        </filter>
+        */
+      {
+        var filter = defs.append("filter")
+          .attr("id", "filter-drop-shadow")
+          .attr("width", "200%")
+          .attr("height", "200%")
+
+        filter
+          .append("feGaussianBlur")
+            .attr("in", "SourceAlpha")
+            .attr("stdDeviation", "2")
+
+        filter
+          .append("feOffset")
+            .attr("dx", "2")
+            .attr("dy", "2")
+            .attr("result", "offsetblur")
+
+        filter
+          .append("feComponentTransfer")
+          .append("feFuncA")
+            .attr("type", "linear")
+            .attr("slope", "0.8")
+
+        var merge = filter.append("feMerge")
+        merge.append("feMergeNode")
+        merge.append("feMergeNode")
+          .attr("in", "SourceGraphic")
+      }
+

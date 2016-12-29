@@ -1,0 +1,243 @@
+/*! app.less
+ * 
+ * NOTE: the css version of this file is auto-generated, so only edit the original 
+ * less version if you don't want your changes to be overwritten.
+ */
+
+/* **************************************************************************
+                                   GENERAL
+   ************************************************************************** */
+
+@import "elements.less";
+@import "fonts.less";
+
+body {
+  background: #f5f4f4;
+  padding: 0;
+  margin: 0;
+  .kraken-font();
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+}
+
+a {
+  color: #648DAE;
+
+  &:hover, &:active {
+    text-decoration: none;
+  }
+
+  &:active {
+    color: #1B5F97;
+  }
+}
+
+.hidden { display: none !important; }
+.center { text-align: center; }
+
+.left  { float: left;  }
+.right { float: right; }
+
+.unselectable {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+body, #content, .fit {
+  height: 100%;
+  min-height: 100%;
+}
+
+.flash-container {
+  position: fixed;
+  max-width: 640px;
+  margin: 8px 0 0 -320px;
+  left: 50%;
+  top: 0;
+  z-index: 1000;
+  pointer-events: none;
+
+  .flash-alert {
+    position: absolute;
+    width: 100%;
+    padding: 15px;
+    top:  0;
+    left: 0;
+    color: #fff;
+    .rounded(4px);
+
+    .flash-close {
+      position: relative;
+      top: 2px;
+      float: right;
+      color: #fff;
+      pointer-events: auto;
+    }
+  }
+
+  .alert-success { background: #7ec646; }
+  .alert-error   { background: #c4392d; }
+}
+
+/* **************************************************************************
+                                    INTRO
+   ************************************************************************** */
+
+.logo {
+  position: absolute;
+  top: 1.5em;
+  left: 1.52em;
+
+  width: 64px;
+}
+
+/* **************************************************************************
+                                VISUALIZATION
+   ************************************************************************** */
+
+@highlight: rgb(250, 236, 81);
+@reputation: rgb(168, 201, 241);
+// rgb(255, 83, 13)
+
+.element {
+  .overlay {
+    stroke-width: 4;
+    stroke: #fff;
+    fill: rgba(0,0,0,0);
+    .transition(all, 0.5s, ease-out);
+  }
+}
+
+.element:hover, .element:active, .element.active {
+  cursor: pointer;
+
+  .overlay {
+    stroke: fade(@highlight, 100%);
+    fill: rgba(0,0,0,0.4);
+    .transition(all, 0s);
+  }
+}
+
+.element-link {
+  stroke-width: 2;
+  stroke: rgba(127, 127, 127, 0.2);
+  //stroke: url("#element-link-stroke");
+  fill: none;
+  .transition(all, 0.5s, ease-out);
+}
+
+.element-link.active {
+  stroke-width: 10;
+  stroke: fade(@highlight, 90%);
+
+  .transition(all, 0s);
+}
+
+.element-link.element-link-enter {
+  stroke: rgba(127, 127, 127, 0);
+  stroke-width: 0;
+}
+
+.element-link-hidden {
+  display: none;
+}
+
+.element-link-hidden.active {
+  display: block;
+}
+
+.element-link.transfer {
+  stroke: fade(@reputation, 90%);
+}
+
+.reputation-bubble {
+  stroke: none;
+  fill: url(#reputation-bubble-fill);
+}
+
+.btn-reputation {
+  position: absolute;
+  top: 1.52em;
+  left: 50%;
+  margin-left: -3.7em;
+}
+
+.reputation-label {
+  position: absolute;
+  top: 3em;
+  left: 0%;
+  width: 100%;
+  text-align: center;
+}
+
+.glyphicon-spin {
+  -animation: spin-animation 1.5s infinite linear;
+  -webkit-animation: webkit-spin-animation 1.5s infinite linear;
+}
+
+@-webkit-keyframes webkit-spin-animation {
+  from { -webkit-transform: rotate(0deg);}
+  to { -webkit-transform: rotate(360deg);}
+}
+
+@keyframes spin-animation {
+  from { transform: scale(1) rotate(0deg);}
+  to { transform: scale(1) rotate(360deg);}
+}
+
+/* **************************************************************************
+                                     MODAL
+   ************************************************************************** */
+
+.modal-content {
+  .logo, .profile-image {
+    display: block;
+    max-width:  128px;
+    max-height: 128px;
+    margin: 0 auto 1em;
+  }
+
+  .modal-title {
+    text-align: center;
+  }
+
+  ul.jobs {
+    list-style-type: none;
+    padding: 0;
+
+    li {
+      display: block;
+      margin-top: 1em;
+    }
+  }
+
+  .modal-footer {
+    margin-top: 0;
+
+    .btn {
+      text-align: center;
+    }
+  }
+
+  .organization-name {
+    font-weight: 700;
+  }
+
+  .job-dates {
+    font-style: italic;
+  }
+}
+

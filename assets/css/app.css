@@ -1,0 +1,244 @@
+@import url('//fonts.googleapis.com/css?family=Oxygen:400,700');
+/*! app.less
+ * 
+ * NOTE: the css version of this file is auto-generated, so only edit the original 
+ * less version if you don't want your changes to be overwritten.
+ */
+/* **************************************************************************
+                                   GENERAL
+   ************************************************************************** */
+/*! elements.less
+ * 
+ * Uses elements derived from LESS Elements 0.9 by Dmitry Fadeyev 
+ * (http://lesselements.com)
+ * 
+ * NOTE: the css version of this file is auto-generated, so only edit the original 
+ * less version if you don't want your changes to be overwritten.
+ */
+/*! fonts.less
+ * 
+ * NOTE: the css version of this file is auto-generated, so only edit the original 
+ * less version if you don't want your changes to be overwritten.
+ */
+body {
+  background: #f5f4f4;
+  padding: 0;
+  margin: 0;
+  font-family: 'Oxygen' "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+}
+a {
+  color: #648DAE;
+}
+a:hover,
+a:active {
+  text-decoration: none;
+}
+a:active {
+  color: #1B5F97;
+}
+.hidden {
+  display: none !important;
+}
+.center {
+  text-align: center;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.unselectable {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+body,
+#content,
+.fit {
+  height: 100%;
+  min-height: 100%;
+}
+.flash-container {
+  position: fixed;
+  max-width: 640px;
+  margin: 8px 0 0 -320px;
+  left: 50%;
+  top: 0;
+  z-index: 1000;
+  pointer-events: none;
+}
+.flash-container .flash-alert {
+  position: absolute;
+  width: 100%;
+  padding: 15px;
+  top: 0;
+  left: 0;
+  color: #fff;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+.flash-container .flash-alert .flash-close {
+  position: relative;
+  top: 2px;
+  float: right;
+  color: #fff;
+  pointer-events: auto;
+}
+.flash-container .alert-success {
+  background: #7ec646;
+}
+.flash-container .alert-error {
+  background: #c4392d;
+}
+/* **************************************************************************
+                                    INTRO
+   ************************************************************************** */
+.logo {
+  position: absolute;
+  top: 1.5em;
+  left: 1.52em;
+  width: 64px;
+}
+/* **************************************************************************
+                                VISUALIZATION
+   ************************************************************************** */
+.element .overlay {
+  stroke-width: 4;
+  stroke: #fff;
+  fill: rgba(0, 0, 0, 0);
+  -webkit-transition: all 0.5s ease-out;
+  -moz-transition: all 0.5s ease-out;
+  -o-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out;
+}
+.element:hover,
+.element:active,
+.element.active {
+  cursor: pointer;
+}
+.element:hover .overlay,
+.element:active .overlay,
+.element.active .overlay {
+  stroke: #faec51;
+  fill: rgba(0, 0, 0, 0.4);
+  -webkit-transition: all 0s ease-out;
+  -moz-transition: all 0s ease-out;
+  -o-transition: all 0s ease-out;
+  transition: all 0s ease-out;
+}
+.element-link {
+  stroke-width: 2;
+  stroke: rgba(127, 127, 127, 0.2);
+  fill: none;
+  -webkit-transition: all 0.5s ease-out;
+  -moz-transition: all 0.5s ease-out;
+  -o-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out;
+}
+.element-link.active {
+  stroke-width: 10;
+  stroke: rgba(250, 236, 81, 0.9);
+  -webkit-transition: all 0s ease-out;
+  -moz-transition: all 0s ease-out;
+  -o-transition: all 0s ease-out;
+  transition: all 0s ease-out;
+}
+.element-link.element-link-enter {
+  stroke: rgba(127, 127, 127, 0);
+  stroke-width: 0;
+}
+.element-link-hidden {
+  display: none;
+}
+.element-link-hidden.active {
+  display: block;
+}
+.element-link.transfer {
+  stroke: rgba(168, 201, 241, 0.9);
+}
+.reputation-bubble {
+  stroke: none;
+  fill: url(#reputation-bubble-fill);
+}
+.btn-reputation {
+  position: absolute;
+  top: 1.52em;
+  left: 50%;
+  margin-left: -3.7em;
+}
+.reputation-label {
+  position: absolute;
+  top: 3em;
+  left: 0%;
+  width: 100%;
+  text-align: center;
+}
+.glyphicon-spin {
+  -animation: spin-animation 1.5s infinite linear;
+  -webkit-animation: webkit-spin-animation 1.5s infinite linear;
+}
+@-webkit-keyframes webkit-spin-animation {
+  from {
+    -webkit-transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+  }
+}
+@keyframes spin-animation {
+  from {
+    transform: scale(1) rotate(0deg);
+  }
+  to {
+    transform: scale(1) rotate(360deg);
+  }
+}
+/* **************************************************************************
+                                     MODAL
+   ************************************************************************** */
+.modal-content .logo,
+.modal-content .profile-image {
+  display: block;
+  max-width: 128px;
+  max-height: 128px;
+  margin: 0 auto 1em;
+}
+.modal-content .modal-title {
+  text-align: center;
+}
+.modal-content ul.jobs {
+  list-style-type: none;
+  padding: 0;
+}
+.modal-content ul.jobs li {
+  display: block;
+  margin-top: 1em;
+}
+.modal-content .modal-footer {
+  margin-top: 0;
+}
+.modal-content .modal-footer .btn {
+  text-align: center;
+}
+.modal-content .organization-name {
+  font-weight: 700;
+}
+.modal-content .job-dates {
+  font-style: italic;
+}
