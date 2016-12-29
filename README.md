@@ -1,8 +1,10 @@
-# [Kraken]()
+# [Kraken](https://fisch0920.github.io/kraken-visualization/dist)
 
 ### Kraken Demo
 
 This is a small visual demo of Kraken's proprietary graph reputation analysis for understanding and interacting with the relationships between top engineering candidates and tech companies.
+
+There is a hosted version of the [demo](https://fisch0920.github.io/kraken-visualization/dist).
 
 ### Structure
 
